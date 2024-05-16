@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UTS-PPB</string>
+    <string name="home_rekening">Info Rekening</string>
+    <string name="home_transfer">Transfer</string>
+    <string name="home_bayar">Bayar</string>
+    <string name="home_beli">Beli</string>
+</resources>
